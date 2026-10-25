@@ -6,3 +6,5 @@ print('branch_test')
 print('stash1')
 print('stash2')
 print('stash3')
+print('stash4')
+aaa
